@@ -1,4 +1,5 @@
-#Replicator Queue
+#Replication of Queue
+
 In this project i have tried to reproduce **_queue behaviour_** in JavaScript.
 
 
